@@ -1,0 +1,24 @@
+{
+  "name": "vue-v-hide",
+  "version": "1.0.0",
+  "description": "vue v-hide directive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillerRen/vue-v-hide.git"
+  },
+  "keywords": [
+    "vue",
+    "directive",
+    "v-hide"
+  ],
+  "author": "MillerRen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MillerRen/vue-v-hide/issues"
+  },
+  "homepage": "https://github.com/MillerRen/vue-v-hide#readme"
+}
