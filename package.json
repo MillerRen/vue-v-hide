@@ -1,6 +1,6 @@
 {
   "name": "vue-v-hide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue v-hide directive",
   "main": "index.js",
   "scripts": {
